@@ -21,3 +21,8 @@ a {
     color: inherit;
     text-decoration: none;
 }
+
+a:hover {
+    transition: all ease-in 0.15s;
+    color: #575f80;
+}
